@@ -89,7 +89,7 @@
                 <h4 class="up">playlist</h4>
                 <a href="create.php"><img class="firstimg" src="img/image3.webp" alt="apple"></a>
             </div>
-          </div>
+          </div> 
           <div class="playlist">
             <h4 class="pulse">Playlist on the pulse</h4>
           </div>
