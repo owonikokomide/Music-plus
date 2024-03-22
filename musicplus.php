@@ -19,7 +19,7 @@
         <div class="musiclogo">
           <div class="pics">
             <img src="img/picss.png" alt="picss">
-          </div>
+          </div> 
           <div class="title">
             <a href="#"><h2>Music<span class="span">Plus</span></h2></a>
           </div>
