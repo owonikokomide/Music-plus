@@ -15,7 +15,7 @@
 <body>
   <div class="container">
     <div class="musicplus">
-      <div class="sidebar">
+      <div class="sidebar"> 
         <div class="musiclogo">
           <div class="pics">
             <img src="img/picss.png" alt="picss">
