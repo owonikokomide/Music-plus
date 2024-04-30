@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <link rel="stylesheet" href="music.css">
-  <link rel="icon" href="img/pics.jpeg">
+  <link rel="icon" href="img/pics.jpeg"> 
   <link rel="stylesheet" href="fontawesome-free-6.2.1-web/css/fontawesome.css"> 
   <link rel="stylesheet" href="fontawesome-free-6.2.1-web/js/fontawesome.min.js">
   <link rel="stylesheet" href="fontawesome-free-6.2.1-web/css/solid.css">
