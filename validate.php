@@ -8,7 +8,7 @@ if(isset($_POST['submit'])){
 
   $select = "SELECT * FROM mymusic WHERE email = '$email' ";
   $select_query = mysqli_query($connection, $select);
-  $num = mysqli_num_rows($select_query);
+  $num = mysqli_num_rows($select_query); 
   if($num > 0){
     echo "<script>
     alert('Email already exist')
