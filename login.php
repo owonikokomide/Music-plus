@@ -12,7 +12,7 @@
 <body>
   <div class="container">
     <div class="musiclogo">
-      <div class="pics">
+      <div class="pics">  
         <img src="img/picss.png" alt="picss">
       </div>
       <div class="title">
