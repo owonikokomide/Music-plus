@@ -10,7 +10,7 @@
   <title>create account</title>
 </head>
 <body>
-  <div class="container">
+  <div class="container"> 
     <div class="musiclogo">
       <div class="pics">  
         <img src="img/picss.png" alt="picss">
