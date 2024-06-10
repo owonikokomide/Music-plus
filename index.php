@@ -13,7 +13,7 @@
   <title>MusicPlus</title> 
 </head> 
 <body>
-  <div class="container">
+  <div class="container"> 
     <div class="musicplus">
       <div class="sidebar">
         <div class="musiclogo">
